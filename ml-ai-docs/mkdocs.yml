@@ -1,0 +1,8 @@
+site_name: ML/AI Documentation
+theme:
+  name: 'darkly'  # You can replace 'darkly' with any other Bootswatch theme name
+
+nav:
+  - Home: index.md
+  - ML/AI: ml-ai.md
+  - Contact: contact.md
